@@ -1,0 +1,14 @@
+Características del sitio:
+
+Hero oscuro navy con logo flotante animado, nombre en tipografía Playfair Display y tagline
+Íconos sociales (WhatsApp, Email, Facebook, Mapa) con hover animado
+Card de servicios con etiquetas: Credenciales PVC, Diseño, Multimedia, Branding
+Sección de contacto con teléfono, email, dirección y web — todos clickeables
+Popup de Compartir con:
+
+QR vCard escaneable (guarda contacto directo al teléfono)
+Compartir por WhatsApp
+Copiar enlace
+Descargar QR como imagen
+Animaciones de entrada, hover y toast de confirmación
+Diseño responsive mobile-first

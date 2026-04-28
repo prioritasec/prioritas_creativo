@@ -1,0 +1,15 @@
+Estructura del proyecto prioritas/
+
+
+prioritas/
+├── index.html          ← Página principal
+├── css/
+│   └── styles.css      ← Estilos completos con animaciones
+├── js/
+│   └── main.js         ← Lógica del popup, copiar, WhatsApp
+├── iconos/
+│   ├── logo.svg        ← Logo "P" de Prioritas
+│   └── phone.svg       ← Icono teléfono
+└── imagenes/
+    ├── qr_contact.png  ← QR con vCard completa
+    └── vcard_original.png
